@@ -10,7 +10,7 @@ teacher of Math and pysics
 https://sashagid.github.io/rsschool-cv/cv
 
 ## Skills
-+git
-+html
-+css
++ git
++ html
++ css
 
