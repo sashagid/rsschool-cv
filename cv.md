@@ -1,13 +1,15 @@
 
 # Ihnatenko Oleksandr
 ## About me
-like adventures
+Im like adventures
 
 ## Education
-teachet of Math and pysics
+teacher of Math and pysics
+
 ## Projects
 https://sashagid.github.io/rsschool-cv/cv
-## Scills
+
+## Skills
 +git
 +html
 +css
