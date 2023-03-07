@@ -4,7 +4,7 @@
 
 ## Education
 1. Oleksandr Dovzhenko Hlukhiv National Pedagogical University
-   * Master of Education (Phisics-Mathematic)- September 2001 - June 2006.
+   * Master of Education (Phisics-Mathematic)- September 2001 - June 2006
 2. National Pedagogical Dragomanov University
     * Doctor of Philosophy - PhD, Education - September 2008 - Fabruary 2014
 ## Work Experianse
