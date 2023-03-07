@@ -6,7 +6,7 @@
 1. Oleksandr Dovzhenko Hlukhiv National Pedagogical University
    * Master of Education (Phisics-Mathematic)- September 2001 - June 2006.
 2. National Pedagogical Dragomanov University
-    * Doctor of Philosophy - PhD, Education - September 2008 - Fabruary 2014.
+    * Doctor of Philosophy - PhD, Education - September 2008 - Fabruary 2014
 ## Work Experianse
 1. Teacher of informatics (2006-2008)
 2. Associate professor in Oleksandr Dovzhenko Hlukhiv National Pedagogical University (2014 - until now)
