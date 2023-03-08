@@ -4,9 +4,149 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My CV</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/styles.css">
+    <title>Resume</title>
 </head>
 <body>
-    My CV
+<!--Main-->
+<div class="main">
+    <!--Main content-->
+    <div class="main-content">
+        <!--about user-->
+        <div class="about">
+            <!-- <h2 class="about-position"> Front-End Developer</h2> -->
+            <h1 class="about-name">Ihnatenko Oleksandr</h1>
+            <p class="about-discription">Just do it </p>
+         </div>   
+        
+        <!--Work-->
+        <div class="work">
+            <h3 class="title">Work Experience</h3>
+            <!--Company 1-->
+            <div>
+                <h4 class="work-position">Teacher of informatics <span class="organization"> School</span> </h4>
+                <p class="period">September 2006 - June 2008  <span class="line">|</span>    Ukraine</p>
+                <ul class="work-list">
+                    <li class="work-list-item">Teacheng the basics of computer science. </li>
+                    <li class="work-list-item">Teaching the basics of algorithmization and programming.</li>
+                    <li class="work-list-item">Responsible for the school computer network. </li>
+                    <li class="work-list-item">Team work, organizational skills. </li>
+                </ul>
+            </div>
+            <!--Company 2-->
+            <div>
+                <h4 class="work-position">PhD <span class="organization">Oleksandr Dovzhenko Hlukhiv National Pedagogical University</span></h4>
+                <p class="period">September 2011 - until now   <span class="line">|</span>   Ukraine</p>
+                <ul class="work-list">
+                    <li class="work-list-item">Teaching the basics of computer science. </li>
+                    <li class="work-list-item">Basics of algorithmization and programming.</li>
+                    <li class="work-list-item">Teaching the methodology of teaching informatics in primary school.</li>
+                    <li class="work-list-item">Responsible for the university website.  </li>
+                    <li class="work-list-item">Team work, organizational skills. </li>
+                </ul>
+            </div>
+        </div>
+        <!--Education 1-->
+        <div class="education">
+            <h3 class="title">Education</h3>
+            <!--Edu 1-->
+            <div>
+                <h4 class="edu-position"><span class="organization">Oleksandr Dovzhenko Hlukhiv National Pedagogical University</span> </h4>
+                <h4 class="edu-position">Master of Education </h4>
+                <p class="period">September 2001 - June 2006   <span class="line">|</span>   Ukraine</p>
+            </div>
+            <!--Edu 2-->
+            <div>
+                <h4 class="edu-position"><span class="organization">National Pedagogical Dragomanov University</span> </h4>
+                <h4 class="edu-position">Doctor of Philosophy - PhD, Education </h4>
+                <p class="period">September 2008 - Fabruary 2014   <span class="line">|</span>   Ukraine</p>
+            </div>
+             <!--Edu 3-->
+             <div>
+                <h4 class="edu-position"><span class="organization">Lviv IT School</span> </h4>
+                <h4 class="edu-position">Fundamentals of Web UI Development 2022 </h4>
+                <p class="period">June 2022 - July 2022   <span class="line">|</span>   Ukraine</p>
+            </div>
+            <!--Edu 3-->
+            <div>
+                <h4 class="edu-position"><span class="organization">Prometheus: CS50</span> </h4>
+                <h4 class="edu-position">Web Programming with Python and JavaScript CS50 </h4>
+                <p class="period">June 2022 - until now    <span class="line">|</span>   Ukraine</p>
+            </div>
+        </div>
+        <!--Projects-->
+        <div class="projects">
+            <h3 class="title">Projects</h3>
+            <ol class="project-iist">
+                <li class="project-item">
+                    <span class="project"><a href="http://new.gnpu.edu.ua/" class="project-link">http://new.gnpu.edu.ua/</a>
+                 ............... <span class="project-bracket">[</span> HTML, CSS, CMS Joomla <span class="project-bracket">]</span>
+                </li>
+                <li class="project-item">
+                    <span class="project"><a href="http://ukped.com/" class="project-link" >http://ukped.com/</a>
+                ..............................<span class="project-bracket">[</span>  HTML, CSS, CMS Joomla <span class="project-bracket">]</span>
+                </li>
+              
+            </ol>
+        </div>
+        
+    </div>
+    <!--Sidebar-->
+    <aside class="sidebar">
+        <img src="img/MyPhoto.jpg" alt="user foto" class="photo">
+        <!--Contacts-->
+        <div class="contacts">
+            <h3 class="sidebar-title">Contacts</h3>
+            <div>
+                <p class="contact-p">
+                    <span class="contact-type"> C:</span>
+                    <a href="tel:+380661646213" class="contact-link">+380 66 164 62 13</a></p>
+                <p class="contact-p"> 
+                    <span class="contact-type">E:</span> 
+                    <a href="mailto:sashagid@gmail.com" class="contact-link">sashagid@gmail.com</a></p>
+                <p class="contact-p"> 
+                    <span class="contact-type">Ln:</span> 
+                    <a href="https://www.linkedin.com/in/oleksandr-ihnatenko-a537b385" class="contact-link">Oleksandr-ihnatenko</a></p>   
+                <p class="contact-p"> 
+                    <span class="contact-type">GitHub:</span> 
+                    <a href="https://github.com/sashagid" class="contact-link">sashagid</a></p>
+            </div>
+        </div>
+        <!--Tech Skills-->
+        <div class="tech-skills">
+            <h3 class="sidebar-title">Tech Skills</h3>
+            <ul class="skills-list">
+                <li class="tech-skills-item"> <span class="tech-skills-text"> HTML</span></li>
+                <li class="tech-skills-item"> <span class="tech-skills-text">CSS</span></li>
+                <li class="tech-skills-item"> <span class="tech-skills-text">PHP</span></li>
+                <li class="tech-skills-item"> <span class="tech-skills-text">GIT</span></li>
+                <li class="tech-skills-item"> <span class="tech-skills-text">JavaScript</span></li>
+                <li class="tech-skills-item"> <span class="tech-skills-text">Python</span></li>
+    
+
+            </ul>
+        </div>
+        <!--Soft Skills-->
+        <div class="soft-skills">
+            <h3 class="sidebar-title">Soft Skills</h3>
+            <ul class="skills-list">
+                <li class="soft-skills-item"><span class="soft-skills-text">Scrum</span></li>
+                <li class="soft-skills-item"><span class="soft-skills-text">Agile</span></li>
+                <li class="soft-skills-item"><span class="soft-skills-text">Teamwork</span></li>
+            </ul>
+        </div>
+        <!--Languages-->
+        <div class="soft-skills">
+            <h3 class="sidebar-title">Languages</h3>
+            <ul class="skills-list">
+                <li class="soft-skills-item"><span class="soft-skills-text">Ukainian - native</span></li>
+                <li class="soft-skills-item"><span class="soft-skills-text">English - intermidiate</span></li>
+            </ul>
+        </div>
+    </aside>
+</div>
 </body>
 </html>
