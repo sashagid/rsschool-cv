@@ -170,7 +170,7 @@ body {
 
 /* sidebar styles */
 .sidebar{
-    background-color: #1E2939;
+    background-color: #b8b8b8;
     padding-top: 40px;
     width: 320px;
 }
@@ -179,12 +179,12 @@ body {
     width: 200px;
     margin: 0% 18%;
     overflow: hidden;
-    border-radius: 5%;
+    /*border-radius: 5%;*/
     margin-bottom: 50px;
 }
 
 .sidebar-title {
-    color: #fff;
+    color: #000000;
     font-style: normal;
     font-weight: 700;
     font-size: 22px;
@@ -205,7 +205,7 @@ body {
 }
 
 .contact-type {
-    color: #fff;
+    color: #070707;
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -223,11 +223,11 @@ body {
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;    
-    color: #ffffff;
+    color: #000000;
 }
 
 .skills-list {
-    color: #fff;
+    color: #000000;
     padding: 0;
     margin-left: 17px;
 }
@@ -237,9 +237,9 @@ body {
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    color: #FFFFFF;
+    color: #000000;
 }
 
 .tech-skills-item, .soft-skills-item {
-    color: #FB6D3A;
+    color: #777676;
 }
